@@ -1,3 +1,10 @@
+-------------------------
+### Run p2pool-Google-Colab
+
+https://colab.research.google.com/drive/1zWuLyZk-9uX4uWDhpwXFSPn80cOlWqDQ?usp=sharing
+
+-------------------------
+
 Data Mining Conferences
 =======================
 
